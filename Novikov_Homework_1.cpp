@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+//Test
 int main()
 {
 	int a, b, c;		 //Коеффициенты при х
